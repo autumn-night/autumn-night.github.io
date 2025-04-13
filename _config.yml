@@ -6,7 +6,7 @@ title: young_fan的博客                                  # 你的博客标题
 email: 3336523704@qq.com                      # 你的邮箱地址 (可选，用于某些主题)
 description: >-                                   # 你的博客描述 (用于 SEO 和主题显示)
   欢迎来到我的个人博客，分享我的技术、生活和思考。
-baseurl: "/master"                                       # 如果你的博客部署在子路径 (例如 username.github.io/blog)，则设置为 "/blog"；否则留空
+baseurl: ""                                       # 如果你的博客部署在子路径 (例如 username.github.io/blog)，则设置为 "/blog"；否则留空
 url: "https://autumn-night.github.io"             # 你的博客完整 URL (注意替换你的 GitHub 用户名)
 github_username: autumn-night                       # 你的 GitHub 用户名 (用于链接到你的 GitHub 页面)
 
