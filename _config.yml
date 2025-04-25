@@ -5,9 +5,9 @@
 title: young_fan的博客                                  # 你的博客标题
 email: 3336523704@qq.com                      # 你的邮箱地址 (可选，用于某些主题)
 description: >-                                   # 你的博客描述 (用于 SEO 和主题显示)
-  欢迎来到我的个人博客！
-  这里会有一些我在做实验时学习到的内容，为了防止遗忘而做成了笔记的形式
-  希望能够帮到你！
+  欢迎来到我的个人博客！   
+  这里会有一些我在做实验时学习到的内容，为了防止遗忘而做成了笔记的形式   
+  希望能够帮到你！   
 baseurl: ""                                       # 如果你的博客部署在子路径 (例如 username.github.io/blog)，则设置为 "/blog"；否则留空
 url: "https://autumn-night.github.io"             # 你的博客完整 URL (注意替换你的 GitHub 用户名)
 github_username: autumn-night                       # 你的 GitHub 用户名 (用于链接到你的 GitHub 页面)
@@ -93,10 +93,8 @@ plugins:
 # ---------------------------------------------------------------------------- #
 
 author:
-  name: >- 
-    "yougn_fan"
-  avatar: >- 
-    "/_posts/_images/young_fan.png"             # 你的头像路径 (可选)
+  name: "yougn_fan"   
+  avatar: "/_posts/_images/young_fan.png"             # 你的头像路径 (可选)
   # bio: "一个热爱分享的技术人。"                     # 你的个人简介 (可选)
   # twitter_username: your_twitter_handle          # 你的 Twitter 用户名 (可选)
 
