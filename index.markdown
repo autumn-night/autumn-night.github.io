@@ -1,12 +1,12 @@
-<!-- ---
+---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
---- -->
 ---
-layout: home
-title: 欢迎来到我的博客
+<!-- ---
+layout: home<br>
+title: 欢迎来到我的博客<br>
 ---
 
 <div style="text-align: center;">
@@ -23,4 +23,4 @@ title: 欢迎来到我的博客
 
 ---
 
-欢迎你来到我的个人博客，
+欢迎你来到我的个人博客， -->
