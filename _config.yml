@@ -15,7 +15,7 @@ github_username: autumn-night                       # 你的 GitHub 用户名 (�
 
 author:   
   name: yougn_fan   
-  avatar: "./_posts/_images/young_fan.png"                 
+  avatar: "assert/images/young_fan.png"                 
   bio: scu23级本科                     # 你的个人简介 (可选)
   # twitter_username: your_twitter_handle          # 你的 Twitter 用户名 (可选)
 
